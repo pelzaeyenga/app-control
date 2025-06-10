@@ -1,0 +1,15 @@
+# Fichiers sensibles
+backend/.env
+frontend/.env
+*.sqlite3
+__pycache__/
+*.pyc
+venv/
+node_modules/
+.next/
+out/
+npm-debug.log
+yarn-error.log
+.vscode/
+.idea/
+*.swp
